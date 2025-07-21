@@ -8,5 +8,5 @@ Download to find out how to use it! It's super simple!
 
 Just Type in python3 main.py <--path_of_book--> and the results with will come up!
 
-Dependecies: 
+Dependencies: 
 Required python3 for use!
