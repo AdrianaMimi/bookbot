@@ -1,6 +1,7 @@
 # bookbot
 This is a prototype application of an text analysis.
---> Planned Features: 
+
+Planned Features: 
     - Integrated GUI. 
     - Comprehensive generated index.
     - Save analysis reports into PDFs and different file types. 
